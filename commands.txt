@@ -1,0 +1,2 @@
+splot 'gnuplot.txt' with lines
+pause -1
